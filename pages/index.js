@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Movement Analytics" />
         <p className="description">
-          We're a work in progress.</code>
+          We are a work in progress.</code>
         </p>
       </main>
 
