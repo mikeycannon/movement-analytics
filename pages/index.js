@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+import Head from "next/head";
+import Header from "@components/Header";
+import Footer from "@components/Footer";
 
 export default function Home() {
   return (
@@ -12,12 +12,10 @@ export default function Home() {
 
       <main>
         <Header title="Movement Analytics" />
-        <p className="description">
-          We are a work in progress.</code>
-        </p>
+        <p className="description">We're a work in progress.</p>
       </main>
 
       <Footer />
     </div>
-  )
+  );
 }
